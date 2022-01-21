@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: 'Hi, World!'
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This is the homepage of me, Nicholas Hoell.  I'm a mathematician by training, a machine learning engineer by profession and a musician by avocation.  This is a spot for random thoughtlets not better found elsewhere. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![C182681B-3D6A-4020-97E0-680D6E851EBA_1_100_o.jpeg]({{site.baseurl}}/_posts/C182681B-3D6A-4020-97E0-680D6E851EBA_1_100_o.jpeg)
+![IMG_3178.PNG]({{site.baseurl}}/_posts/IMG_3178.PNG)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
